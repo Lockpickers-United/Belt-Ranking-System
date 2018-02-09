@@ -19,8 +19,11 @@ Pretty simple really. Major.Minor.Revision. ie: 1.3.12
 ## Authors
 
 * **tumbl3r** - *Initial work* - [crpearson](https://github.com/crpearson)
-* *ith** - *Initial work*
+* **ith** - *Initial work*
 * **MMDeveloper** - *Initial work*
+* **evr-** - *Revisioning*
+* **Supallama** - *Revisioning*
+* **loupgarou21** - *Revisioning*
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -32,8 +35,9 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 Hat tip to the Lock Classification Group
 
-# draukan
-* evr-huxleypig
+* draukan
+* evr-
+* huxleypig
 * lockpickingheavensgate
 * loupgarou21
 * SiriMhM
