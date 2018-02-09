@@ -25,7 +25,7 @@ Pretty simple really. Major.Minor.Revision. ie: 1.3.12
 * **Supallama** - *Revisioning*
 * **loupgarou21** - *Revisioning*
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/crpearson/lockpicking/contributors) who participated in this project.
 
 ## License
 
