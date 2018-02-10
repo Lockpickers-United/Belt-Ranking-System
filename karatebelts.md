@@ -675,6 +675,7 @@ Examples of "Master's Projects":
 
 **Version 1.2.2**
 
+Fork me, pull me! Offical [GitHub Repo](https://github.com/crpearson/lockpicking)
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ![](%%CComons%%)
