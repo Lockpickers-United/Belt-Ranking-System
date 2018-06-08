@@ -24,6 +24,7 @@ Pretty simple really. Major.Minor.Revision. ie: 1.3.12
 * **evr-** - *Revisioning*
 * **Supallama** - *Revisioning*
 * **loupgarou21** - *Revisioning*
+* **potkettleracism** - *Revisioning*
 
 See also the list of [contributors](https://github.com/crpearson/lockpicking/contributors) who participated in this project.
 
