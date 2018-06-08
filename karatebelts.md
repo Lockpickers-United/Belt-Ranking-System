@@ -5,7 +5,7 @@
 
 As a way to have fun (perhaps at the expense of Six Sigma) this sub gives its members the opportunity to earn user flair in the form of karate belts. Belt flair is issued based on the accomplishments of the member, with each higher level requiring increased community participation and the picking of increasingly difficult locks.
 
-Karate Belt Flair is entirely optional and members will go "unranked" until they specifically requests ranking by [messaging the moderation team](https://www.reddit.com/message/compose?to=%2Fr%2Flockpicking).
+Karate Belt Flair is entirely optional and members will go "unranked" until they specifically requests ranking by [messaging the moderation team](https://www.reddit.com/message/compose?to=%2Fr%2Flockpicking). The moderators do not actively monitor the sub and all requests must go through modmail, posts requesting a belt will be removed. 
 
 Remember this is all just for fun... In the end, no matter what karate belt you wear, you're still just wearing fancy pajamas.
 
@@ -61,6 +61,8 @@ Remember this is all just for fun... In the end, no matter what karate belt you 
 
 - Acrylic, cutaways, and other designs of locks that allow you to have a clear view of the inside of the lock will not count any higher than a white belt, even if it's a black-belt level lock.
 
+- The lock picked for belt ranking must be "factory pinned".  Some exceptions can be made as many locks do come from the factory unpinned or zero-bitted, or the lock may come only partially assembled, in which case the pinning of the lock must be typical for that type of lock.  Custom pinned locks and challenge locks will only count as a white belt lock.  Adding security pins to otherwise low ranking locks will not increase the ranking of a lock.
+
 - Kung Fu Panda Clause: In some extremely rare cases, a member's accomplishment will be noteworthy to the point that it changes the state of the art with respect to lock picking. Generally this involves highly complex tool, method and technique that results in a "first time in history" opening of a lock that had long stood as pick proof. Since there is usually no precedent for the work having been accomplished, these cases will be evaluated individually as they arise by the moderation team, and the member ranked at the belt deemed appropriate.
 
 ***********************************
@@ -68,7 +70,7 @@ Remember this is all just for fun... In the end, no matter what karate belt you 
 ###Challenge Lock Requirements
 
 Blue Belt Picker and higher require that you have custom pinned a "Challenge Lock" and shared it with another picker. Preferably this lock will make it into circulation and introduce you to the fun of exchanging locks designed not for security but specifically to defeat picking.  
-If for some reason you are unable to fully engage with the larger community of exchange we still encourage you to gain the more in-depth knowledge of how locks function that comes from building your own.  [Speak to a moderator](https://www.reddit.com/message/compose?to=%2Fr%2Flockpicking) about possible alternatives to the challenge lock requirement.
+If for some reason you are unable to fully engage with the larger community of exchange we still encourage you to gain the more in-depth knowledge of how locks function that comes from building your own.  [Speak to a moderator](https://www.reddit.com/message/compose?to=%2Fr%2Flockpicking) about possible alternatives to the challenge lock requirement. Having no interest in building a challenge lock is not grounds for an exception.
 
 A "**Challenge Lock**" is defined as:
 
@@ -119,13 +121,15 @@ If a lock moves up a rank (e.g. from yellow belt to orange belt) that change wil
 
 If a lock moves down a rank (e.g. from orange belt to yellow belt) and you've already picked it, fear not, you've earned that rank, and we have no intention to revoke a belt rank that we feel is well earned.  We also understand that some locks require a significant financial and time investment, and you may have already purchased a lock and started working on it before we announced the lock is being reclassified.  When we move a lock down a rank, we will make every effort to state that we are doing so publicly, and provide an appropriate grace period to allow anyone currently working on that lock to have time to get their accomplishment ranked at the old belt level.
 
-Here is the list of locks currently scheduled for reclassification:
-
-*  Commando Marine
-  *  This lock was inadvertently listed as both Orange belt and Green belt.  New rank is Green belt.
-  *  Effective immediately.
-
 ***********************************
+
+###Current Belt Rankings List
+
+Lock not on the list? No problem. The Wiki covers 90% of locks that most people here will pick, however, there are hundreds more locks that have been classified that are not on the wiki. If every classified lock was listed on the wiki, it would be a mile long, so there is now a spreadsheet with more comprehensive and up to date classifications.
+
+####[Click Here!] (https://docs.google.com/spreadsheets/d/1JvskJMIl55mVVh53jgaWDFmwJz-KvHDWXVmvYsINB2g/edit?usp=sharing)
+
+
 
 ###Rankings
 
@@ -213,7 +217,7 @@ Requirements:
 * Laperche
 * Lifetime
 * Mannesmann
-* Master 140
+* Master 140, 141
 * Master Magnum
 * McGeiz
 * Mecanimax
@@ -250,6 +254,7 @@ Requirements:
 * Abus 55/40 -- Non-removable core
 * Abus 60/50 -- Non-removable core
 * Abus 65 -- Non-removable core
+* Abus 82/63 -- Non-removable core
 * Abus 83/40
 * Abus 85 -- Non-removable core
 * Abus Buffo (Ecoline)
@@ -486,9 +491,9 @@ Requirements:
 * Federal Lock 6Y3110
 * Ingersoll CS
 * Magnum Atlantic
-* Medeco Biaxial
-* Medeco M3
-* Medeco Original
+* Medeco Biaxial **
+* Medeco M3 **
+* Medeco Original **
 * MLock
 * Mul-T-Lock Classic
 * Mul-T-Lock Junior
@@ -496,6 +501,8 @@ Requirements:
 * Yale Superior (Millenco Magnum)
 
 If picking a Best SFIC, be sure to review the guidelines listed under [SFIC Filming Requirements](#wiki_sfic_filming_requirements) for validating your lock in the picking video.
+
+ ** Must be raked prior to picking to reset pin combination
 
 *************************************
 
@@ -519,6 +526,7 @@ Requirements:
 * ASSA 700
 * Assa Guideline
 * Bks Multipin
+* CX-5 Scorpion / Marks High Security Lock
 * Dierre New Power
 * DOM System D
 * Eagle "Supr-Security"
@@ -527,11 +535,14 @@ Requirements:
 * Kwikset SmartKey Gen 3
 * Magnum Mont Blanc
 * Mauer NW 4
-* Medeco Duracam -- Non-removable core
+* Medeco Duracam -- Non-removable core **
+* Medeco M3/Biaxial LFIC **
 * Mul-T-Lock Interactive
 * Schlage Everest Primus
 * Schlage Primus
 * SEA slider lock
+
+** Must be raked prior to picking to reset pin combination
 
 *************************************
 
@@ -552,7 +563,7 @@ Requirements:
 6. SPP two different locks on this list or similar
 
 * Abus 89/50
-* Abus Granit
+* Abus Granit (Disc Detainer version)
 * ASSA Desmo
 * ASSA DP 2400
 * ASSA Twin 6000 (with barrel spools)
@@ -632,6 +643,7 @@ Requirements:
 * ASSA Twin Pro
 * ASSA Twin v10
 * Banham m2002
+* Bowley
 * Chubb Detector
 * EVVA 3KS
 * Evva 4KS
@@ -676,6 +688,7 @@ Examples of "Master's Projects":
 **Version 1.2.2**
 
 Fork me, pull me! Offical [GitHub Repo](https://github.com/crpearson/lockpicking)
+
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ![](%%CComons%%)
