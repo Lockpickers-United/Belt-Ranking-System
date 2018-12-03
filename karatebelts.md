@@ -35,7 +35,7 @@ Remember this is all just for fun... In the end, no matter what karate belt you 
  * Answer: Most Abus padlocks have two numbers, for example 55/40.  The first number printed on the lock is the model of lock, and the second number is the width of the lock in millimeters.  Many of the smaller variants of a model lack some of the security features of the larger variants, so we list the minimum size that we will accept for that belt rank.  For example, we list the Abus 55/40, we will also accept the 55/45 and 55/50.  We will not accept smaller variants of the lock listed for that belt rank.  Variants of the Abus locks that are smaller than the size listed can be assumed to be white belt in rank (we may make some exceptions, but a smaller variant will never be accepted as the listed belt rank of a larger variant.)
 
 * Question: I asked for special consideration on something and I don't agree with your decision on the matter.
- * Answer: While we honestly make every effort to be accommodating, it is inevitable that there will be disagreements. Once you have made your case and the decision has been rendered, it's time to respectfully step away. Endlessly trying to convince us of your position is counterproductive and disrespectful. Doing so will result a warning. If continued, you will be ineligible for promotion for 30 days.
+ * Answer: While we honestly make every effort to be accommodating, it is inevitable that there will be disagreements. Once you have made your case and the decision has been rendered, it's time to respectfully step away. Endlessly trying to convince us of your position is counterproductive and disrespectful. Doing so will result in a warning. If continued, you will be ineligible for promotion for 30 days.
 
 ***********************************
 
@@ -91,7 +91,7 @@ Stipulations:
 * Each **"turned, sculpted or shaped" driver pin** counts as one modification. Pins must be shaped BY the builder, **removing no less than 15%** of the original material
 * **Pin-in-pin** counts as one "turned, sculpted or shaped" pin per pin modified. Shaping a pin and also making it pin-in-pin does not count as two modifications
 * **Chamber threading** counts as one "modification" regardless of the number of chambers augmented
-* **Chamber counter-milling** counts asone "modification" regardless of the number of chambers augmented
+* **Chamber counter-milling** counts as one "modification" regardless of the number of chambers augmented
 * Each **improvised secondary locking mechanism** counts as one modification (latches, check pins, etc)
 * **"Distinguishing mark" engraved into the lock** counts as one modification (**Simple scratches do not count**. Engraving must be a symbol or mark of the maker)
 
@@ -305,6 +305,7 @@ Requirements:
 * Master Lock 150 -- Non-removable core
 * Master Lock 532 -- Non-removable core
 * Master Lock 570, 575, 576 -- Non-removable core
+* Paclock 95g
 * S&S
 * SIB
 * SMB
@@ -422,7 +423,7 @@ Requirements:
 1. Demonstrate your ability to gut locks and get them back together again
 2. Demonstrated history of helping new pickers, either on the sub and/or in the Discord channel
 3. Have built a ["Challenge Lock"](#wiki_challenge_lock_requirements) and shared it with a fellow picker.  Please see the information at the top of this page for more information on this requirement.
-4. Pick one of the locks on this list or similar:
+4. Pick and gut one of the locks on this list or similar:
 
 * Abus D10
 * Abus Bravus 3000
@@ -474,7 +475,7 @@ Requirements:
 1. Demonstrate your ability to gut locks and get them back together again
 2. Demonstrated history of helping new pickers
 3. Have built a ["Challenge Lock"](#wiki_challenge_lock_requirements) and shared it with a fellow picker
-4. SPP (single pin pick) two different locks on this list or similar:
+4. SPP (single pin pick) and gut two different locks on this list or similar:
 
 * Abus Bravus 4000
 * Assa Abloy Nemef Nf 4 (dimple lock)
@@ -500,6 +501,7 @@ Requirements:
 * MLock
 * Mul-T-Lock Classic
 * Mul-T-Lock Junior
+* Sergeant Signature 
 * Tokoz Tech
 * Yale Superior (Millenco Magnum)
 
@@ -522,7 +524,7 @@ Requirements:
 2. Demonstrated history of helping advancing and advanced pickers
 3. Have built a ["Challenge Lock"](#wiki_challenge_lock_requirements) and shared it with a fellow picker
 4. Have made at least one specialized tool
-5. SPP two different locks on this list or similar:
+5. SPP and gut two different locks on this list or similar:
 
 * Alke
 * Ankerslot Infinity K
@@ -543,7 +545,7 @@ Requirements:
 * Mul-T-Lock Interactive
 * Schlage Everest Primus
 * Schlage Primus
-* SEA slider lock
+* SEA slider lock / Vidmar
 
 ** Must be raked prior to picking to reset pin combination
 
@@ -563,13 +565,13 @@ Requirements:
 3. Have built a ["Challenge Lock"](#wiki_challenge_lock_requirements) and shared it with a fellow picker
 4. Have made at least one specialized tool
 5. Mentor a more advanced picker through the process of getting into a difficult lock
-6. SPP two different locks on this list or similar
+6. SPP and gut two different locks on this list or similar
 
 * Abus 89/50
 * Abus Granit (Disc Detainer version)
 * ASSA Desmo
 * ASSA DP 2400
-* ASSA Twin 6000 (with barrel spools)
+* ASSA Twin 6000 (Barrel spools and matched undercuts)
 * BiLock
 * Bks Janus
 * Cism Atlas
@@ -579,7 +581,7 @@ Requirements:
 * DOM IX Saturn
 * DOM RS 8
 * Elzett Magnet
-* Emhart
+* Emhart **
 * Fab Dynamic
 * Fab Variant
 * Federal Lock 11KDCFTP3110
@@ -597,6 +599,7 @@ Requirements:
 * Mauer NW 5
 * Mottura Champions C38
 * Mul-T-Lock MT5
+* MIWA U9
 * Picard Vigie
 * Pollux 7
 * Ruko Combi 2
@@ -610,16 +613,19 @@ Requirements:
 * Yuema 950
 * Yuema 960
 
+ ** Must be raked prior to picking to reset pin combination
+
 *************************************
 
 ####Black Belt
 ![](%%black%%)
 
+
 Zen music plays when you enter the room. You wake up from dreams in which you are trying to figure out ways to pick the unpickable. You have mentored two or more pickers at the brown and red belt levels and you have published the specs to at least one custom tool of your own design.
 
 To earn a black belt, world-class picking necessary but not sufficient. Mentoring others is necessary but not sufficient. You must deviate from your comfort zone and complete at least two epic quests of sufficient complexity and difficulty. Black Belt Pickers are extremely rare, and while this system was designed with a degree of levity, earning one is true honor and something to be very very proud of.
 
-You must video picking and gutting accomplishments in one continuous take.
+You must video picking and gutting accomplishments in one continuous take, If there is a sidebar it must also be displayed to show nothing has been tampered with.
 
 Requirements:
 
@@ -627,9 +633,9 @@ Requirements:
 2. Demonstrated history of helping advancing and advanced pickers
 3. Have built a ["Challenge Lock"](#wiki_challenge_lock_requirements) and shared it with a fellow picker
 4. Have made at least one specialized tool and published the specs
-5. Mentor at least two advanced picker through the process of getting into a difficult lock
+5. Mentor at least two advanced pickers through the process of getting into a difficult lock
 6. Complete at least two of the "Epic Quest Options" listed below
-7. SPP two different locks on this list or similar
+7. SPP and gut two different locks on this list or similar
 
 * Abloy Classic
 * Abloy Disklock
@@ -640,7 +646,7 @@ Requirements:
 * Abloy Sentry
 * Anker (MIWA/Ankerslot) 3800
 * ASSA DP 4400
-* ASSA Twin 6000 (with gin-bottle spools and matched countermilling)
+* ASSA Twin 6000 (Gin-bottle spools and matched undercuts)
 * ASSA Twin Combi
 * ASSA Twin Maximum
 * ASSA Twin Pro
@@ -648,6 +654,7 @@ Requirements:
 * Banham m2002
 * Bowley
 * Chubb Detector
+* Emhart Interchangeable core **
 * EVVA 3KS
 * Evva 4KS
 * EVVA Dual
@@ -664,6 +671,8 @@ Requirements:
 * Zeiss Ikon M
 * Zeiss Ikon Verso
 * Zeiss Ikon WSW
+
+ ** Must be raked prior to picking to reset pin combination
 
 Epic Quest Options:
 
