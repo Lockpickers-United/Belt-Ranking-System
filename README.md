@@ -18,13 +18,14 @@ Pretty simple really. Major.Minor.Revision. ie: 1.3.12
 
 ## Authors
 
-* **tumbl3r** - *Initial work* - [crpearson](https://github.com/crpearson)
+* **tumbl3r** - *Initial conceptualization and work* - [crpearson](https://github.com/crpearson)
 * **ith** - *Initial work*
 * **MMDeveloper** - *Initial work*
 * **evr-** - *Revisioning*
 * **Supallama** - *Revisioning*
 * **loupgarou21** - *Revisioning*
 * **potkettleracism** - *Revisioning*
+* **CorrecJjeans** - *Dan System and current game master*
 
 See also the list of [contributors](https://github.com/crpearson/lockpicking/contributors) who participated in this project.
 
@@ -47,3 +48,5 @@ Hat tip to the Lock Classification Group
 * UrbanHawk
 * xCaetusx
 * potkettleracisim
+* CorrectJeans
+* CaptainHookNumber1
