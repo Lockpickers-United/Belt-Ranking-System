@@ -25,7 +25,7 @@ Pretty simple really. Major.Minor.Revision. ie: 1.3.12
 * **Supallama** - *Revisioning*
 * **loupgarou21** - *Revisioning*
 * **potkettleracism** - *Revisioning*
-* **CorrecJjeans** - *Dan System and current game master*
+* **CorrecJeans** - *Dan System and current game master*
 
 See also the list of [contributors](https://github.com/crpearson/lockpicking/contributors) who participated in this project.
 
