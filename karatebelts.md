@@ -117,7 +117,7 @@ NOTE: The lock must remain in frame for the remainder of your video past this po
 3.  If the SFIC lock is currently in a lock body, such as a padlock, use the Control key to remove the core
 4.  Use the Operating key to turn the plug 180º and show to the camera that the pins are present through the holes in the bottom of the lock.
 5.  You may now put the lock core back into a lock body or vice, but the lock must remain in frame for the remainder of the video.
-6.  Pick the lock to both operating and control.
+6.  Pick the lock to both operating and control (picking to one of the two shearlines is good for Blue)
 
 You may pick the lock before showing the lock verification steps above, but the lock must remain in frame for the entirety of the video
 
@@ -156,6 +156,11 @@ If a lock moves up a rank (e.g. from yellow belt to orange belt) that change wil
 If a lock moves down a rank (e.g. from orange belt to yellow belt) and you've already picked it, fear not, you've earned that rank, and we have no intention to revoke a belt rank that was well earned.  We also understand that some locks require a significant financial and time investment, and you may have already purchased a lock and started working on it before we announced the lock is being reclassified.  When we move a lock down a rank, we will make every effort to state that we are doing so publicly, and provide an appropriate grace period (generally one month) to allow anyone currently working on that lock to have time to get their accomplishment ranked at the old belt level.
 
 **Planned Changes:**
+
+* Bilock short format (8-pins): Red->Brown (Red until Dec-23-2019)
+* EVVA EPS/DPS/DPX (pin-tumbler versions): Purple->Blue (Purple until Dec-23-2019)
+* Yale Superiod/Milencio Magnum short format (5 pins/3 sliders): Purple->Blue (Purple until Dec-23-2019)
+* Keso 10RS / 2000S / 4000S (Omega) / Lips Keso (door cylinder) / Lips Octro (Red until Dec-23-2019)
 
 **Effective Immediately:**
 
@@ -215,11 +220,11 @@ Requirements:
 
 * Abus 55/30
 * Abus 64TI Titalium -- Non-removable core and 4 pins or fewer
-* Abus 74/40 LOTO
 * Abus EC75 75/30 -- Non-removable core
 * Abus MyLock
 * Abus Nautic (40mm and up)
 * ACE laminated 40mm padlock -- Non-removable core
+* Arco 7 Lock
 * ADW
 * ARFE
 * Assa Abloy Tesa TE-5
@@ -265,6 +270,7 @@ Requirements:
 * Mannesmann
 * Master 140, 141 -- Non-removable core
 * Master Lock 4140 (V-line) -- Non-removable core
+* Master Lock 930
 * Master Lock Magnum -- Non-removable core
 * McGeiz
 * Mecanimax
@@ -320,6 +326,7 @@ Requirements:
 * Basi CO
 * Basi ST
 * Brinks Mortise/deadbolt cyinder with security pins
+* Brinks House Key
 * Brinks Weatherproof 44mm laminated padlock (black plastic case) -- Non-removable core
 * CES KB
 * CES PS5
@@ -377,6 +384,10 @@ Requirements:
 Higher quality locks with even more security pins. Some of these locks have dead cores, and it’s not just because you've picked them to death. It might also be that you have started down the dimple lock road. You've also started your development as a lock surgeon, gutting them and getting them back together again.
 
 You must video picking and gutting accomplishments in one continuous take, pictures are no longer accepted at this rank, even for locks that cannot be disassembled.  
+
+* FOR NON GUTTABLE LOCKS (IE. Master 410LOTO) 
+Video documentation of gutting and reassembling a different lock will be accepted.
+
 Check out the KOD [guide to making pick and gut videos](https://youtu.be/gcekRz-7If8) if you not familiar with the process. Remember, [vertical video hurts](https://www.youtube.com/watch?v=dechvhb0Meo).
 
 Requirements:
@@ -385,6 +396,7 @@ Requirements:
 2. SPP (single pin pick) one of the locks on this list or similar:
 
 * Abus 72/40
+* Abus 74/40 LOTO -- Non-removable core
 * Abus 75/50 / 75IB/50 -- Non-removable core
 * Abus Brady 71/40 LOTO (Lock Out Tag Out)
 * Abus Bravus 1000
@@ -432,16 +444,21 @@ Requirements:
 * Gera Iseo R6
 * Guett Dern
 * Kai Kai
+* Kasp 14040
 * Kale 164 CE
 * Kryptonite 6-pin padlock
 * Master Lock 410 LOTO (Lock Out Tag Out) -- Non-removable core
+* Master Lock 6835
 * Master Lock 911
 * Master Lock 931
 * Master Lock DG
 * Master Lock Pro Series
 * Master Lock S32 LOTO (Lock Out Tag Out) -- Non-removable core
+* Mauer Elite 1
+* Mottura Champions C10
 * Mul-T-Lock 7X7
 * Paclock 90A
+* Paclock UCS
 * Schlage Everest
 * Tokoz Beta
 * Vachette standard cylinder
@@ -489,7 +506,7 @@ Requirements:
 * Assa 500
 * ASSA 600 (with barrel spools)
 * ASSA 700 with graduated spools and no countermilling
-* ASSA d12
+* ASSA/Ruko d12
 * ASSA Flexcore
 * ASSA R502
 * Burg Wächter Gamma 700 -- Non-removable core
@@ -498,6 +515,9 @@ Requirements:
 * Dom IX 5KG
 * Dom S (with circle)
 * EVVA DPI - Pin Tumbler version
+* EVVA DPS - Pin Tumbler version (Purple until Dec-23-2019)
+* EVVA DPX - Pin Tumbler version (Purple until Dec-23-2019)
+* EVVA EPS - Pin Tumbler version (Purple until Dec-23-2019)
 * EVVA GPI
 * Federal Lock 6KD3110
 * GeGe AP2000
@@ -508,24 +528,34 @@ Requirements:
 * Kwikset Smartkey (gen 1 & 2)
 * Lockwood 334B45 (Spool drivers)
 * Lockwood 356S63
+* M&C Color
 * Mako 427
 * Mauer RedLine G
 * Mauer RedLine GM
 * Medeco Camlock (≤4 pins)
 * Mila Evolution
+* Milencio Magnum (short format, 5 pins) (Purple until Dec-23-2019)
+* Mottura Champions C28 / C29
+* Mul-T-Lock Integrator
+* Nemef NF2
 * Nemef NF3
+* Paclock PL410
 * Ruko R501
 * SEA slider lock / Vidmar
 * Securit S20##
+* SFIC format locks -- Picked to 1 shearline
 * Takigen 10-pin
 * Trioving (Vingcard) 55## (with trampoline pins)
 * VSR 9-pin (2 rows)
 * West 12-pin
 * Winkhaus N-Tra
 * Winkhaus Titan
+* Yale Superior (short format, 5 pins) (Purple until Dec-23-2019)
 * Zeiss Ikon Sk6 vector
 * Zeiss Ikon SK7
 * Zeiss Ikon Undercut
+
+If picking an SFIC, be sure to review the guidelines listed under [SFIC Filming Requirements](#wiki_sfic_filming_requirements) for validating your lock in the picking video.
 
 *************************************
 
@@ -551,40 +581,50 @@ Requirements:
 * ASSA Desmo (6 sliders)
 * Burg Wächter Alpha 800 -- Non-removable core
 * CEI "Five Colors"
-* Chicago Duo
+* Illinois Duo
 * Chubb Biaxial
 * DOM IX 6SR
 * DOM IX 10 (no fins)
 * Eagle "Supr-Security" (without front shutter)
 * EVVA DPI - Slider version
-* EVVA DPS
-* EVVA DPX
-* EVVA EPS
+* EVVA DPS - Slider version
+* EVVA DPX - Slider version
+* EVVA EPS - Slider version
 * Fichet 450 (10 levers, no false gates)
 * Gerda HSS †
 * Ingersoll CS
 * Kaba 8 (3-rows)
+* Kale Kilit 164 BNE
 * Lince C4
+* Lips Keso padlock
+* Lockwood Twin
 * Magnum Atlantic
 * Medeco Camlock (5-6 pins) **
 * Medeco Original / Biaxial / M3 **
 * Miracle Magnetic
 * MLock
+* Mottura Champions C30 / C31 / C39 **** (cannot be picked with C38 for Purple)
+* Mottura Champions C38 **** (cannot be picked with C30/31/39 for Purple)
 * Mul-T-Lock Interactive / Classic / Junior (spooled driver pins)
 * Mul-T-Lock MT5 (Without Sidebar)
 * Nemef NF4
 * SFIC format locks (unless otherwise specified) -- Must be picked to both shearlines in one take
 * Sergeant Signature 
 * Tesa Tk 100
+* Tubar
 * Tokoz Tech
+* Trioving d12 level 1 (aka d13, no long pin)
 * US Star Tech "Hi Security"
-* Yale Superior (Millenco Magnum)
+* Yale Superior / Milencio Magnum (7 or 9 pins)
 
-If picking a Best SFIC, be sure to review the guidelines listed under [SFIC Filming Requirements](#wiki_sfic_filming_requirements) for validating your lock in the picking video.
+If picking an SFIC, be sure to review the guidelines listed under [SFIC Filming Requirements](#wiki_sfic_filming_requirements) for validating your lock in the picking video.
 
- ** Must be raked prior to picking to reset pin combination
+** Must be raked prior to picking to reset pin combination
 
-† If picked with a tool that the picker has made themselves or modified significantly from other tools, then this lock counts as Brown Belt
+**** Must be picked with the bible oriented down
+
+† If picked with a tool that the picker has made themselves or modified significantly from other 
+tools, then this lock counts as Brown Belt
 
 *************************************
 
@@ -603,7 +643,8 @@ Requirements:
 4. Have made at least one specialized tool
 5. SPP and gut two different locks on this list or similar:
 
-* Abus Plus † (red until 20-July-2019)
+* Abus Plus †
+* ALC Galaxy
 * Alke
 * Alpha FB
 * Anchor Las (disc detainer) †
@@ -611,8 +652,10 @@ Requirements:
 * ASSA Desmo (8 sliders)
 * ASSA Guideline
 * Avocet ABS
+* BiLock (8 pins) (Red until Dec-23-2019)
 * Bks Multipin
 * Bricard Chifral s2
+* Codkey Locksys
 * CX-5 Scorpion / Marks High Security Lock
 * Dierre New Power
 * DOM System D
@@ -621,14 +664,15 @@ Requirements:
 * Federal Lock UCF3100 / USC3100
 * Fichet 666
 * JPM Surf
-* Kaba Gemini
+* Kaba Gemini (not pluS)
+* Keso 10RS / 2000S / 4000S (Omega) / Lips Keso (door cylinder) / Lips Octro (Red until Dec-23-2019)
 * Kwikset SmartKey Gen 3
 * Magnum Mont Blanc
 * Mauer NW4 / NW5 / NW6
 * Medeco Duracam -- Non-removable core **
 * MIWA PS / Tostem DN
 * Mul-T-Lock Interactive / Classic (serrated driver pins)
-* Schlage Primus / Everest Primus
+* Schlage Primus / Everest Primus (Side pins MUST be SPP'd)
 * Schlage Everest 29 SL Primus XP
 * SFIC with security pins *** -- Must be picked to both shearlines in one take
 * VSR (3 rows)
@@ -667,7 +711,7 @@ Requirements:
 * Abloy Sentry †
 * ASSA DP 2400
 * ASSA 700 (With gin bottle or christmas tree pins and countermilling)
-* BiLock
+* BiLock (12 pins)
 * Bks Janus
 * Cism Atlas
 * DOM Diamant †
@@ -682,12 +726,13 @@ Requirements:
 * Fichet-Bauche M2B / M3B / MxB
 * Fichet 450 / 480 (10 levers, with false gates)
 * Fontaine Dynaxis
+* Forte Enigma
 * FTH Surveyor
 * Goal V18
 * Izis
 * JPM 405
-* Keso 10RS / 2000S / 4000S (Omega) / Lips Octro
-* Mottura Champions C38
+* Kaba Gemini pluS
+* Mottura Champions C43 / C44 / C48
 * Mul-T-Lock MT5+ (4 pin version)
 * Picard Vigie
 * Pollux 7
@@ -700,8 +745,8 @@ Requirements:
 * Vachette AXI Home
 * Vachette Radial NT
 * Xylock
-* Yuema 950
-* Yuema 960
+* Yuema 750
+* Yuema 760
 * Zeiss Ikon Verso
 * Zeiss Ikon tk5 sperwellenprofil
 
