@@ -22,11 +22,15 @@ Reference documents: Creating a formal reference document which breaks down all 
 -Note: Additional points might be awarded if your write-up covers a family of similar locks. If a lock is not sufficiently different from one which already has a reference document, points will not be awarded for a new document, and the original should be augmented instead.
 Picking guide: Create a unique or systematic method of picking a type of lock and publish a video or document describing how it works (must have new information). +10 points
 Public talk: Create and give a talk at a public event focused on physical security. +10 points (per unique talk)
+
 Complex tool design: Create a complex tool which cannot be constructed using only flat metal stock, and use it to defeat a lock which either requires it, or benefits from its use. +10 points
-Unique tool: Tool has novel capabilities which have not been demonstrated in other tools (these points can apply for tools made from only flat material). +10 points
-Create a dedicated tutorial for the construction of that tool. +5 points
-Exceptionally complex and high quality tool design: Create and demonstrate a tool of incredible complexity and professional quality. These tools are either extremely complex (Sputnik style, lots of small moving parts) or be a project meant to refine a tool beyond just being able to pick the lock (ridges to lock into positions, well-engraved labels, etc). These points are superseded by points awarded for distributing that tool. +40 points
-Tool design and distribution: Create a new complex tool which is developed to a point to where it is actively manufactured and distributed to the greater picking community. +100 points (+50 for additional tools)
+Distribute tool specs: Create a dedicated tutorial for the construction of that tool or provide and publish detailed specs. +5 points
+Exceptionally complex and high quality tool design: The tool is either very complex/precise (Sputnik style, complex DD pick, lots of small moving parts) or be a project meant to refine a tool beyond just being able to pick the lock (ridges to lock into positions, well-engraved labels, etc). +10 points
+Unique tool: The tool has novel capabilities which have not been demonstrated in other tools. +15 points
+
+Tool design and distribution: Create a complex tool or set of tools which are developed to a point to where it is actively manufactured and distributed to the greater picking community. This bonus can only be claimed once. +50 points
+Significant influence in lockpicking: Fulfill the role of tool development and distribution to an extent that has a significant impact on the lockpicking community. This bonus must be approved by a vote by the current pool of black belts. Supercedes the tool design and distribution bonus. +100 points
+
 Cease & Desist: Receive a C&D from a lock company that is upset that you published information about their vulnerabilities. +25 points
 
 Earning points by picking locks
@@ -64,11 +68,10 @@ Unassigned
 Level 1
 Abloy Classic (Half moon group)
 Abloy High Profile (Half moon group)
-Abloy Disklock (Disklock group)
+Abloy Disklock
 Abloy Sentry
 ASSA Twin Exclusive/6000 (with barrels) (Twin group)
 ASSA Twin Maximum/Pro/v10/Global (Twin group)
-Banham m2002
 DOM Diamant
 DOM ix Twinstar / Saturn
 EVVA 3KS / 3KS+ / 4KS (With false gates)
@@ -77,7 +80,7 @@ Miwa U9
 Mul-T-Lock MT5+ (5 pin version) / Zeiss Ikon R10 (Upgrade of 4 pin version)
 
 Level 2
-Abloy Disklock Pro (Disklock group)
+Abloy Disklock Pro
 Abloy Exec
 ASSA Twin Combi (Combi group)
 ASSA Twin 6000 (with gins, upgrade of ASSA Twin 6000) (Twin group)
@@ -87,6 +90,7 @@ EVVA ICS (Evva evil slider group)
 Kaba 20 / Miwa JN (Kaba group)
 Kaba Quattro / Kaba Expert (Kaba group)
 Miwa PR (10 wafers, masterkeyed, upgrade of Miwa PS)
+UrbanAlps Stealth Key
 Zeiss Ikon SK6 Sperrwelle Extra Code (Combi group)
 Zeiss Ikon WSW
 
@@ -112,4 +116,3 @@ Level 5
 Western Electric 30C
 
 * = Notable unpicked lock
-
