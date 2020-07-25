@@ -75,9 +75,36 @@ Remember this is all just for fun... In the end, no matter what karate belt you 
 
 ***********************************
 
+####Belt Request Formatting
+
+Each modmail should include:
+
+* A link to the photo / video of the lock(s) picked.
+* Specify what belt you are looking to rank up to.
+* If the video is long, include timestamps for major events in the video (Lock opened @ X time) if timestamps are in the description that is fine.
+* FOR PHOTOS - Ensure keyway is visible and clear in a picked state. We are not concerned with seeing the shackle open. 
+* FOR VIDEOS - Ensure clarity and proper light showing all parts of the lock during gutting process (The lock can be fully gutted and a zoom in after to show parts is acceptable)
+
+
+Under upper tier ranks that have multiple requirements please collect all the requirements in to one modmail and make one request, this makes it easier to go through that modmail and ensure all requirements are filled out rather than going back through old archived modmail to find the remainder of your requirements.
+
+
+**Any request that is missing any component will be rejected, Any request that is repeated will be put to the back of the line as we move oldest requests out first.**
+
+**Requests may take up to 5 days to process**
+
+
+**HOW TO SEND A MODMAIL**
+
+Click the "Message the moderators" Link on the sidebar just above the list of moderators for this subreddit, Or use [THIS LINK.](https://www.reddit.com/message/compose?to=%2Fr%2Flockpicking)
+
+
+
+***********************************
+
 ###Challenge Lock Requirements
 
-Blue Belt Picker and higher require that you have custom pinned a "Challenge Lock" and shared it with another picker. Preferably this lock will make it into circulation and introduce you to the fun of exchanging locks designed not for security but specifically to defeat picking.  
+Blue Belt Picker and higher require that you have custom pinned a "Challenge Lock" and shared it with another picker (Cutaways are not counted towards challenge locks). Preferably this lock will make it into circulation and introduce you to the fun of exchanging locks designed not for security but specifically to defeat picking.  
 If for some reason you are unable to fully engage with the larger community of exchange we still encourage you to gain the more in-depth knowledge of how locks function that comes from building your own.  [Speak to a moderator](https://www.reddit.com/message/compose?to=%2Fr%2Flockpicking) about possible alternatives to the challenge lock requirement. Having no interest in building a challenge lock is not grounds for an exception.
 
 A "**Challenge Lock**" is defined as:
@@ -136,6 +163,7 @@ Since it is not always an option to gut SFIC's for video, the following are SFIC
 Additionally, the following are sources for other SFIC's who are confirmed to provide locks with the proper pinning for Brown belt:
 
 * Bdtry/Riyame
+* Amvgaert
 
 ***********************************
 
@@ -157,10 +185,9 @@ If a lock moves down a rank (e.g. from orange belt to yellow belt) and you've al
 
 **Planned Changes:**
 
-* Bilock short format (8-pins): Red->Brown (Red until Dec-23-2019)
-* EVVA EPS/DPS/DPX (pin-tumbler versions): Purple->Blue (Purple until Dec-23-2019)
-* Yale Superiod/Milencio Magnum short format (5 pins/3 sliders): Purple->Blue (Purple until Dec-23-2019)
-* Keso 10RS / 2000S / 4000S (Omega) / Lips Keso (door cylinder) / Lips Octro (Red until Dec-23-2019)
+* Master Lock DG (Green until June-02-2020)
+* Lince C4 (Purple until June-02-2020)
+* DOM ix Saturn (Black until June-02-2020)
 
 **Effective Immediately:**
 
@@ -191,6 +218,7 @@ Requirements:
 Here are some examples of locks that would qualify for white belt:
 
 * Acrylic Padlocks -- Non-removable core
+* Brinks R80 disk lock -- Non-removable core
 * China padlocks (granite look)
 * Cutaway Locks (any brand)
 * Mallory Wheeler
@@ -236,7 +264,6 @@ Requirements:
 * BSS
 * Burg Wächter Atlantik
 * Burg Wächter C-Line
-* Burg Wächter Karat
 * Burg Wächter Look
 * Burg Wächter SecuLock
 * Burg Wächter Yacht
@@ -268,9 +295,11 @@ Requirements:
 * Lifetime
 * Mako 227 -- Non-removable core
 * Mannesmann
-* Master 140, 141 -- Non-removable core
+* Master Lock 130
+* Master Lock 140, 141 -- Non-removable core
 * Master Lock 4140 (V-line) -- Non-removable core
 * Master Lock 930
+* Master Lock DG -- Non-removable core (Green until June-02-2020)
 * Master Lock Magnum -- Non-removable core
 * McGeiz
 * Mecanimax
@@ -319,7 +348,7 @@ Requirements:
 * Abus C83N
 * Abus C90
 * Abus Cisa
-* Abus Diskus (normal pin tumblr, not dimple)
+* Abus Diskus (normal pin tumbler, not dimple)
 * Abus Monobloc
 * Ace Brass 40mm and up Padlock -- Non-removable core
 * ACE laminated 44mm and up padlock -- Non-removable core
@@ -328,6 +357,7 @@ Requirements:
 * Brinks Mortise/deadbolt cyinder with security pins
 * Brinks House Key
 * Brinks Weatherproof 44mm laminated padlock (black plastic case) -- Non-removable core
+* Burg Wächter Karat
 * CES KB
 * CES PS5
 * CES WM 5
@@ -351,7 +381,6 @@ Requirements:
 * Kaba Gege Ap 1000
 * Kasp 160 series Diskus
 * Lockwood 110/40
-* Lockwood 334B45 (Standard Driver Pins)
 * Master Lock 150 -- Non-removable core
 * Master Lock 4150 (V-line) -- Non-removable core
 * Master Lock 532 -- Non-removable core
@@ -426,11 +455,9 @@ Requirements:
 * Commando Peacemaker -- Non-removable core
 * Corona
 * Corona M
-* Dom IX 5N
-* Dom IX HT
-* Dom Plura
-* Dom RS 5
-* DOM RS Sigma
+* DOM IX 5N
+* DOM IX HT
+* DOM RS 5
 * DOM SC
 * DOM SV
 * EVVA FPS
@@ -447,14 +474,15 @@ Requirements:
 * Kasp 14040
 * Kale 164 CE
 * Kryptonite 6-pin padlock
+* Lockwood 120/50 -- Non-removable core
 * Master Lock 410 LOTO (Lock Out Tag Out) -- Non-removable core
 * Master Lock 6835
 * Master Lock 911
 * Master Lock 931
-* Master Lock DG
 * Master Lock Pro Series
 * Master Lock S32 LOTO (Lock Out Tag Out) -- Non-removable core
 * Mauer Elite 1
+* MCM SCX
 * Mottura Champions C10
 * Mul-T-Lock 7X7
 * Paclock 90A
@@ -495,29 +523,32 @@ Requirements:
 3. Have built a ["Challenge Lock"](#wiki_challenge_lock_requirements) and shared it with a fellow picker.  Please see the information at the top of this page for more information on this requirement.
 4. SPP and gut one of the locks on this list or similar:
 
+* Abus D6
 * Abus D10
 * Abus Bravus 3000
 * Abus EC (serrated pin version)
 * Abus XP1
 * Ace A527
 * American 1100
+* American 2000 puck lock
 * American 5200 (Non Bump Stop models)
 * Ankerslot Infinity (without magnet)
 * Assa 500
-* ASSA 600 (with barrel spools)
 * ASSA 700 with graduated spools and no countermilling
-* ASSA/Ruko d12
 * ASSA Flexcore
 * ASSA R502
 * Burg Wächter Gamma 700 -- Non-removable core
 * Cantol high-security line (10-pin)
+* Cisa Astral S
 * Corbin Pyramid
-* Dom IX 5KG
-* Dom S (with circle)
+* DOM IX 5KG
+* DOM Plura
+* DOM RS Sigma
+* DOM S (with circle)
 * EVVA DPI - Pin Tumbler version
-* EVVA DPS - Pin Tumbler version (Purple until Dec-23-2019)
-* EVVA DPX - Pin Tumbler version (Purple until Dec-23-2019)
-* EVVA EPS - Pin Tumbler version (Purple until Dec-23-2019)
+* EVVA DPS - Pin Tumbler version
+* EVVA DPX - Pin Tumbler version
+* EVVA EPS - Pin Tumbler version
 * EVVA GPI
 * Federal Lock 6KD3110
 * GeGe AP2000
@@ -525,7 +556,9 @@ Requirements:
 * Guard NVL
 * Kaba 8 (2-rows)
 * Kaba L-10
+* Kryptonite Disk Detainer
 * Kwikset Smartkey (gen 1 & 2)
+* Lince C4 (Purple until June-02-2020)
 * Lockwood 334B45 (Spool drivers)
 * Lockwood 356S63
 * M&C Color
@@ -534,8 +567,9 @@ Requirements:
 * Mauer RedLine GM
 * Medeco Camlock (≤4 pins)
 * Mila Evolution
-* Milencio Magnum (short format, 5 pins) (Purple until Dec-23-2019)
+* Milencio Magnum (short format, 5 pins)
 * Mottura Champions C28 / C29
+* Mul-T-Lock Classic (standard drivers)
 * Mul-T-Lock Integrator
 * Nemef NF2
 * Nemef NF3
@@ -545,12 +579,13 @@ Requirements:
 * Securit S20##
 * SFIC format locks -- Picked to 1 shearline
 * Takigen 10-pin
+* Tokoz Tech 300
 * Trioving (Vingcard) 55## (with trampoline pins)
 * VSR 9-pin (2 rows)
 * West 12-pin
 * Winkhaus N-Tra
 * Winkhaus Titan
-* Yale Superior (short format, 5 pins) (Purple until Dec-23-2019)
+* Yale Superior (short format, 5 pins)
 * Zeiss Ikon Sk6 vector
 * Zeiss Ikon SK7
 * Zeiss Ikon Undercut
@@ -577,8 +612,10 @@ Requirements:
 * Abus EP10
 * Abus TS5000
 * Abus XP2s / Abus XP20s / Cisa AP3
-* ASSA 600 (with gin spools and matched countermilling)
+* ASSA 600 (with barrel spools and matched countermilling)
+* ASSA d12 / ASSA P600 / ASSA Neptun 1900 (equivalent to ASSA 600)
 * ASSA Desmo (6 sliders)
+* ASSA Twin Combi (2 fingerpins)
 * Burg Wächter Alpha 800 -- Non-removable core
 * CEI "Five Colors"
 * Illinois Duo
@@ -595,9 +632,11 @@ Requirements:
 * Ingersoll CS
 * Kaba 8 (3-rows)
 * Kale Kilit 164 BNE
-* Lince C4
 * Lips Keso padlock
 * Lockwood Twin
+* M&C Color Pro
+* M&C Condor
+* M&C Matrix
 * Magnum Atlantic
 * Medeco Camlock (5-6 pins) **
 * Medeco Original / Biaxial / M3 **
@@ -612,7 +651,6 @@ Requirements:
 * Sergeant Signature 
 * Tesa Tk 100
 * Tubar
-* Tokoz Tech
 * Trioving d12 level 1 (aka d13, no long pin)
 * US Star Tech "Hi Security"
 * Yale Superior / Milencio Magnum (7 or 9 pins)
@@ -643,21 +681,24 @@ Requirements:
 4. Have made at least one specialized tool
 5. SPP and gut two different locks on this list or similar:
 
-* Abus Plus †
+* Abus Plus †***
 * ALC Galaxy
 * Alke
 * Alpha FB
 * Anchor Las (disc detainer) †
 * Ankerslot Infinity K
+* ASSA 600 (with gin spools and matched countermilling)
 * ASSA Desmo (8 sliders)
 * ASSA Guideline
 * Avocet ABS
-* BiLock (8 pins) (Red until Dec-23-2019)
+* BiLock (8 pins)
 * Bks Multipin
 * Bricard Chifral s2
 * Codkey Locksys
 * CX-5 Scorpion / Marks High Security Lock
 * Dierre New Power
+* DOM ix10 (with fins)
+* DOM ix10kg
 * DOM System D
 * Eagle "Supr-Security" (with front shutter)
 * Federal Lock 11KDCF3110
@@ -665,7 +706,7 @@ Requirements:
 * Fichet 666
 * JPM Surf
 * Kaba Gemini (not pluS)
-* Keso 10RS / 2000S / 4000S (Omega) / Lips Keso (door cylinder) / Lips Octro (Red until Dec-23-2019)
+* Keso 10RS / 2000S / 4000S (Omega) / Lips Keso (door cylinder) / Lips Octro
 * Kwikset SmartKey Gen 3
 * Magnum Mont Blanc
 * Mauer NW4 / NW5 / NW6
@@ -674,13 +715,15 @@ Requirements:
 * Mul-T-Lock Interactive / Classic (serrated driver pins)
 * Schlage Primus / Everest Primus (Side pins MUST be SPP'd)
 * Schlage Everest 29 SL Primus XP
-* SFIC with security pins *** -- Must be picked to both shearlines in one take
+* SFIC with security pins **** -- Must be picked to both shearlines in one take
 * VSR (3 rows)
 * Winkhaus KeyTec X-Tra
 
 ** Must be raked prior to picking to reset pin combination
 
-*** Must have a total number of security pins that is equal to or higher than the number of pin stacks (see "confirmed SFIC's with security pins")
+*** If picked with front tension, counts as one belt lower. This does not apply when the front disk is a butterfly disk. Locks picked this way must be gutted to demonstrate this.
+
+**** Must have a total number of security pins that is equal to or higher than the number of pin stacks (see "confirmed SFIC's with security pins")
 
 † If picked with a tool that the picker has made themselves or modified significantly from other tools, then this lock counts as Red Belt
 
@@ -702,22 +745,22 @@ Requirements:
 5. Mentor a more advanced picker through the process of getting into a difficult lock
 6. SPP and gut two different locks on this list or similar
 
-* Abloy Classic †
+* Abloy Classic †***
 * Abloy Disklock †
 * Abloy Disklock Pro †
 * Abloy Exec †
 * Abloy High Profile †
 * Abloy Protec †
 * Abloy Sentry †
-* ASSA DP 2400
+* ASSA dp2400
 * ASSA 700 (With gin bottle or christmas tree pins and countermilling)
+* Banham m2002
 * BiLock (12 pins)
 * Bks Janus
 * Cism Atlas
 * DOM Diamant †
-* DOM IX 10
-* DOM IX 10KG
-* DOM RS 8
+* DOM ix Saturn (Black until June-02-2020)
+* DOM RS8
 * Elzett Magnet
 * Emhart / Emhart Interchangeable Core **
 * EVVA 3KS (without false gates)
@@ -726,7 +769,6 @@ Requirements:
 * Fichet-Bauche M2B / M3B / MxB
 * Fichet 450 / 480 (10 levers, with false gates)
 * Fontaine Dynaxis
-* Forte Enigma
 * FTH Surveyor
 * Goal V18
 * Izis
@@ -739,18 +781,19 @@ Requirements:
 * Ruko Combi 2
 * Sargent Keso
 * Sémag Euromag
-* Thirad Cobra
+* Thirard Cobra
 * Tokoz Pro
 * U-Shin Showa NX
 * Vachette AXI Home
 * Vachette Radial NT
 * Xylock
-* Yuema 750
 * Yuema 760
 * Zeiss Ikon Verso
 * Zeiss Ikon tk5 sperwellenprofil
 
 ** Must be raked prior to picking to reset pin combination
+
+*** If picked with front tension, counts as one belt lower (only possible on old models)
 
 † If picked with a tool that the picker has made themselves or modified significantly from other tools, then this lock counts as Black Belt
 
@@ -778,14 +821,12 @@ Requirements:
 
 * Abloy Protec2
 * Anker (MIWA/Ankerslot) 3800
-* ASSA DP 4400 / Ruko Garant+
+* ASSA dp4400 / Trioving dp / Ruko Garant+
 * ASSA Twin 6000 / Twin Exclusive
 * ASSA Twin Pro / Twin Maximum / Twin v10 / Twin Global
-* ASSA Twin Combi
-* Banham m2002
+* ASSA Twin Combi / ASSA Triton / ASSA Neptun 4900 / Trioving System 10
 * Bowley
 * Chubb Detector
-* DOM ix Saturn
 * DOM ix Twinstar
 * EVVA 3KS / 3KS+ / 4KS (With false gates)
 * EVVA Dual
@@ -802,12 +843,12 @@ Requirements:
 * MIWA U9
 * Mul-T-Lock MT5+ (5 pin version) / Zeiss Ikon R10
 * NATO Mersey
+* UrbanAlps Stealth Key
 * Western Electric 29B
 * Western Electric 30C
+* Yuema 750 / Forte Enigma
 * Zeiss Ikon sk6 Sperrwelle Extra Code
 * Zeiss Ikon WSW
-
- ** Must be raked prior to picking to reset pin combination
 
 Epic Quest Options:
 
