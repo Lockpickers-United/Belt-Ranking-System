@@ -76,32 +76,36 @@ For all locks, the same rules for picking on video apply, except in specific cas
 
 ### Point Modifiers
 There are special cases in which the point value for a lock is modified to reflect the amount of work and skill that was required to pick it.
-
+  
 __First recorded pick:__ In the event that an individual is the first person to pick a certain lock on video, even if done before the classification of the lock, **x1.5 points**. 
 _Note:_ This bonus is awarded at the discretion of the moderators, and does not apply if the lock in question is very similar to a previously picked lock.
-
+  
 __First recorded pick (notable lock):__ Certain locks on the list will be marked with a * which indicates that they are locks that have famously not been picked on video. Being the first to demonstrate a successful pick of a notable lock receives **x2.5 points**
-
+  
 __Non-picking defeat:__ Demonstrating a previously unknown method of defeating a specific lock nondestructively other than picking receives **x0.75 points**.
 _Note:_ that creating a new defeat for a lock you have already picked does result in additional points.
-
-__Non-picking defeat (first defeat):__ Demonstrating a non-picking method of defeating a lock which has no known prior defeats receives **x1.5 points** (x2, notable lock), however the lock will still be considered unpicked.
-
+  
+__Non-picking defeat (first defeat):__ Demonstrating a non-picking method of defeating a lock which has no known prior defeats receives **x1.5 points** (notable lock: **x2 points**), however the lock will still be considered unpicked.
+  
 __Picking similar locks:__ Many locks on the list are very similar to each other. As a result, picking a lock which is similar to a previous picked lock takes less effort, and comes with a **penalty**
-
+  
 __Lock groups:__ Some locks on the modified black belt list are assigned a group denoted by colored font. When someone picks a lock from a group they have picked from before, only the highest valued lock picked from that group is awarded full points, and all others receive half. In this way, picking a level 1 black belt lock which is similar to a previously picked lock will only be considered as difficult as picking a red belt lock.
 
 _Example:_
+```
 Assa Twin Pro = 18 points
 Assa Twin Pro + Assa Twin 6000 (gins) = 0.5 × 18 + 22 = 31 points
 Assa Twin Pro + Assa Twin 6000 (gins) + Assa Twin v10 = 0.5 × 18 + 0.5 × 18 + 22 = 40 points
+```
 
 #### Upgraded versions of locks
 
 Some locks are literally the same lock but with different internal modifications, such as the Assa Twin 6000. In these cases, both forms of the lock will be listed at their respective difficulties on the list. If both versions are picked, only the highest value version applies. 
 
 _Example:_ 
+```
 Picking Assa Twin 6000 with gins and barrels still only yields 22 points.
+```
 
 ## Modified Black belt list
 
@@ -120,7 +124,8 @@ Picking Assa Twin 6000 with gins and barrels still only yields 22 points.
 - EVVA 3KS / 3KS+ / 4KS (With false gates)
 - Anker (MIWA/Ankerslot) 3800
 - Miwa U9
-- Mul-T-Lock MT5+ (5 pin version) / Zeiss Ikon R10 (Upgrade of 4 pin version)
+- Mul-T-Lock MT5+ (5 pin version)
+- Zeiss Ikon R10 (Upgrade of 4 pin version)
 
 ### Level 2
 - Abloy Disklock Pro
@@ -158,4 +163,4 @@ Picking Assa Twin 6000 with gins and barrels still only yields 22 points.
 - *NATO Mersey
 - Western Electric 30C
 
-* = Notable unpicked lock
+\* = Notable unpicked lock
