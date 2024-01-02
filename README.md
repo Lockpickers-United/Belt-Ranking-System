@@ -1,4 +1,4 @@
-# Lockpicking Karate Belt Ranking System
+# Lockpicking Belt Ranking System
 
 This project was written as a fun game on reddit.com/r/lockpicking. It has since become very popular and represents the work of many dedicated moderators and individuals. You may feel free to use this system for your group or local club, provided you abide by its Creative Commons license.
 
