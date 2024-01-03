@@ -6,7 +6,7 @@ This project was written as a fun game on reddit.com/r/lockpicking. It has since
 
 Remember that locks are expensive and once a lock is classified, it can be quite impactful to re-classify it. Many folks invest in locks specifically for the purposes of gaining belts and it's important to consider their investments before reclassifying locks downward.
 
-While a CSV file is provided containing the locks and their classification, this should be considered a downstream representation of the current working list on [Google Docs](https://docs.google.com/spreadsheets/d/1QbPqEnGea0HVmo_m8oo06IrX_eVt1ajjuH7hNAzyk2U/edit?usp=sharing).
+The [Google Docs](https://docs.google.com/spreadsheets/d/1QbPqEnGea0HVmo_m8oo06IrX_eVt1ajjuH7hNAzyk2U/edit?usp=sharing) list is deprecated. Locks are now tracked on the [LPU Belts](https://lpubelts.com/#/belts) website.
 
 ## Contributing
 
