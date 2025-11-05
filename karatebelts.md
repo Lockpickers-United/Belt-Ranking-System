@@ -1,5 +1,7 @@
 # Earn Lockpicking Karate Flair
 
+***Last updated January, 2024***
+
 As a way to have fun (perhaps at the expense of Six Sigma) this sub gives its members the opportunity to earn user flair in the form of karate belts. Belt flair is issued based on the accomplishments of the member, with each higher level requiring increased community participation and the picking of increasingly difficult locks.
 
 Karate Belt Flair is entirely optional and members will go "unranked" until they specifically request ranking by messaging the moderation team **with the required documentation as described below**. The moderators do not actively monitor the sub for requests and all requests must go through modmail or discord, posts requesting a belt will be removed.
